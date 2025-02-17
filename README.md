@@ -1,22 +1,22 @@
-# Olá! Eu sou [Seu Nome] ✨
+# Olá! Eu sou João Vitor ✨
 
-Seja bem-vindo ao meu perfil! Sou um desenvolvedor em desenvolvimento, com foco em me tornar full stack. Atualmente, estou estudando **PHP, JavaScript e Node.js**, além de explorar conceitos de **AWS e DevSecOps**.
+Seja bem-vindo ao meu perfil! Sou um desenvolvedor em ascensão, com foco em me tornar front-end. Atualmente, estou estudando **JavaScript e Node.js**, além de explorar conceitos de **AWS e DevSecOps*.
 
 ## 📚 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 📚 Desenvolvendo o sistema **MedEase** como parte do meu TCC
-- 🌐 Explorando **tecnologias web** e aprimorando meus conhecimentos em **POO e MVC**
-- 🚀 Buscando oportunidades para crescer como **desenvolvedor full stack**
+- 🌐 Explorando **tecnologias web** e aprimorando meus conhecimentos.
+- 🚀 Buscando oportunidades para crescer como **desenvolvedor front-end**
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens:** PHP, JavaScript, Node.js
+- **Linguagens:** HTML, CSS, PHP, JavaScript, Node.js
 - **Banco de Dados:** MySQL, MongoDB
 - **Frameworks e Bibliotecas:** Express.js, Bootstrap
-- **Outros:** Git, GitHub, Docker, AWS (aprendendo)
+- **Outros:** Git, GitHub
 
 ## 👥 Onde me encontrar
-- 👤 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 💻 Meu portfólio: [seu-portfolio.com](https://seu-portfolio.com)
-- 💌 Entre em contato: seu-email@email.com
+- 👤 [LinkedIn](https://www.linkedin.com/in/jvtrfortunato/)
+- 💻 Meu portfólio: (Em desenvolvimento)
+- 💌 Entre em contato: jvtrfortunato@outlook.com
 
 Obrigado por visitar meu perfil! 🚀
