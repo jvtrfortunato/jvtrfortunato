@@ -1,6 +1,6 @@
 # Olá! Eu sou João Vitor ✨
 
-Seja bem-vindo ao meu perfil! Sou um desenvolvedor em ascensão, com foco em me tornar front-end. Atualmente, estou estudando **JavaScript e Node.js**, além de explorar conceitos de **AWS e DevSecOps*.
+Seja bem-vindo ao meu perfil! Sou um desenvolvedor em ascensão, com foco em me tornar front-end. Atualmente, estou estudando **React e Tailwind CSS**, além de explorar conceitos de **AWS e DevSecOps*.
 
 ## 📚 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
