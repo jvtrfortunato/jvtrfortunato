@@ -9,7 +9,7 @@ Seja bem-vindo ao meu perfil! Sou um desenvolvedor em ascensão, com foco em me 
 - 🚀 Buscando oportunidades para crescer como **desenvolvedor front-end**
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens:** HTML, CSS, JavaScript
+- **Linguagens:** PHP, JavaScript, HTML, CSS, C#, Python
 - **Banco de Dados:** MySQL, MongoDB
 - **Frameworks e Bibliotecas:** Express.js, Bootstrap
 - **Outros:** Git, GitHub
