@@ -11,7 +11,7 @@ Seja bem-vindo ao meu perfil! Sou um desenvolvedor em ascensão, com foco em me 
 ## ⚙️ Tecnologias e Ferramentas
 - **Linguagens:** PHP, JavaScript, HTML, CSS, C#, Python
 - **Banco de Dados:** MySQL, MongoDB
-- **Frameworks e Bibliotecas:** Express.js, Bootstrap
+- **Frameworks e Bibliotecas:** FullCalendar, Bootstrap
 - **Outros:** Git, GitHub
 
 ## 👥 Onde me encontrar
