@@ -1,16 +1,16 @@
 # Olá! Eu sou João Vitor ✨
 
-Seja bem-vindo ao meu perfil! Sou um desenvolvedor em ascensão, com foco em me tornar front-end. Atualmente, estou estudando **React e Tailwind CSS**, além de explorar conceitos de **AWS e DevSecOps*.
+Seja bem-vindo ao meu perfil! Sou um desenvolvedor Full Stack. Atualmente, estou estudando **PHP e JavaScript**.
 
 ## 📚 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 📚 Desenvolvendo o sistema **MedEase** como parte do meu TCC
+- 🎓 Formado **Análise e Desenvolvimento de Sistemas**
+- 📚 Desenvolvendo o sistema **MedEase** que foi usado como parte do meu TCC
 - 🌐 Explorando **tecnologias web** e aprimorando meus conhecimentos.
-- 🚀 Buscando oportunidades para crescer como **desenvolvedor front-end**
+- 🚀 Buscando oportunidades para crescer como **Desenvolvedor Full Stack**
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens:** PHP, JavaScript, HTML, CSS, C#, Python
-- **Banco de Dados:** MySQL, MongoDB
+- **Linguagens:** PHP, JavaScript, C#, Python
+- **Banco de Dados:** MySQL
 - **Frameworks e Bibliotecas:** FullCalendar, Bootstrap
 - **Outros:** Git, GitHub
 
