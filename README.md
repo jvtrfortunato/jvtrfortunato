@@ -14,7 +14,7 @@ Seja bem-vindo ao meu perfil! Sou um desenvolvedor Full Stack. Atualmente, estou
 - **Frameworks e Bibliotecas:** Bootstrap, React e FullCalendar
 - **Versionamento:** Git, GitHub
 
-- ## ⭐ GitHub Stats
+## ⭐ GitHub Stats
 <a href="https://github.com/jvtrfortunato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvtrfortunato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvtrfortunato&layout=compact&langs_count=6&theme=radical"/>
