@@ -9,11 +9,15 @@ Seja bem-vindo ao meu perfil! Sou um desenvolvedor Full Stack. Atualmente, estou
 - 🚀 Buscando oportunidades para crescer como **Desenvolvedor Full Stack**
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens:** PHP, JavaScript, C#, Python
+- **Linguagens:** JavaScript, Node.js, PHP, C#, Python
 - **Banco de Dados:** MySQL e MongoDB
 - **Frameworks e Bibliotecas:** Bootstrap, React e FullCalendar
 - **Versionamento:** Git, GitHub
-- **Outros:** Node.js
+
+- ## ⭐ GitHub Stats
+<a href="https://github.com/jvtrfortunato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvtrfortunato&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvtrfortunato&layout=compact&langs_count=6&theme=radical"/>
 
 ## 👥 Onde me encontrar
 - 👤 [LinkedIn](https://www.linkedin.com/in/jvtrfortunato/)
