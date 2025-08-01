@@ -1,17 +1,17 @@
 # Olá! Eu sou João Vitor ✨
 
-Seja bem-vindo ao meu perfil! Sou um desenvolvedor Full Stack. Atualmente, estou estudando **PHP e JavaScript**.
+Seja bem-vindo ao meu perfil! Sou um desenvolvedor Full Stack.
 
 ## 📚 Sobre mim
 - 🎓 Formado **Análise e Desenvolvimento de Sistemas**
 - 📚 Desenvolvendo o sistema **MedEase** que foi usado como parte do meu TCC
-- 🌐 Explorando **tecnologias web** e aprimorando meus conhecimentos em React e Node.js
+- 🌐 Explorando **tecnologias web** e aprimorando meus conhecimentos na criação de APIs REST com Node.js e Express
 - 🚀 Buscando oportunidades para crescer como **Desenvolvedor Full Stack**
 
 ## ⚙️ Tecnologias e Ferramentas
-- **Linguagens:** JavaScript, Node.js, PHP, C#, Python
+- **Linguagens:** JavaScript, PHP, C#, Python
 - **Banco de Dados:** MySQL e MongoDB
-- **Frameworks e Bibliotecas:** Bootstrap, React e FullCalendar
+- **Frameworks e Bibliotecas:** Bootstrap e React
 - **Versionamento:** Git, GitHub
 
 ## ⭐ GitHub Stats
