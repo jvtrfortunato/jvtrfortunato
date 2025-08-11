@@ -20,7 +20,6 @@ Seja bem-vindo ao meu perfil! Sou um desenvolvedor Full Stack.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvtrfortunato&layout=compact&langs_count=6&theme=radical"/>
 
 ## 👥 Onde me encontrar
-- 👤 [LinkedIn](https://www.linkedin.com/in/jvtrfortunato/)
 - 💻 Meu portfólio: (Em desenvolvimento)
 - 💌 Entre em contato: jvtrfortunato@outlook.com
 
