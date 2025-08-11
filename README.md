@@ -24,4 +24,12 @@ Seja bem-vindo ao meu perfil! Sou um desenvolvedor Full Stack.
 - 💻 Meu portfólio: (Em desenvolvimento)
 - 💌 Entre em contato: jvtrfortunato@outlook.com
 
-Obrigado por visitar meu perfil! 🚀
+<div>
+<a href="https://www.linkedin.com/in/jvtrfortunato" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/jvtrfortunato" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+ <div>
