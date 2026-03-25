@@ -5,8 +5,8 @@
 
 ## ⚙️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript, PHP, C#, Python
-- **Banco de Dados:** MySQL e MongoDB
-- **Frameworks e Bibliotecas:** React
+- **Banco de Dados:** MySQL, MongoDB
+- **Frameworks e Bibliotecas:** React, Vite
 - **Versionamento:** Git, GitHub
 
 ## ⭐ GitHub Stats
