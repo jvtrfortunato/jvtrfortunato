@@ -1,13 +1,6 @@
 ## 📚 Sobre mim
 - 🎓 Formado **Análise e Desenvolvimento de Sistemas**
-- 🌐 Explorando **tecnologias web** e aprimorando meus conhecimentos na criação de APIs REST com Node.js e Express
 - 🚀 Buscando oportunidades para crescer como **Desenvolvedor Full Stack**
-
-## ⚙️ Tecnologias e Ferramentas
-- **Linguagens:** JavaScript, PHP, C#, Python
-- **Banco de Dados:** MySQL, MongoDB
-- **Frameworks e Bibliotecas:** React, Vite
-- **Versionamento:** Git, GitHub
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/jvtrfortunato">
